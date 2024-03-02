@@ -1,6 +1,6 @@
 # Parking Lot System 🅿️
 
-This project aims to design a next-generation parking lot system capable of managing a parking lot without any human intervention. The system is implemented as a command-line application with various functionalities.
+This project aims to design a parking lot system capable of managing a parking lot without any human intervention. The system is implemented as a command-line application with various functionalities.
 
 ## Requirements
 
